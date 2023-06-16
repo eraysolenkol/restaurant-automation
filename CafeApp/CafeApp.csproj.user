@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="EmployeeProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EmployeesMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EmployeeWidget.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KitchenMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="OrderedItemWidget.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="OrderWidget.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PayMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrepareWidget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductOrderWidget.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ProductPayWidget.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ProductPrepareWidget.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ProductWidget.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TableOrderMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TableReadyWidget.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TablesMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TableWidget.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UpdateEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateItemWidget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
